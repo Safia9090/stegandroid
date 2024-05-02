@@ -1,0 +1,2 @@
+rootProject.name='Stegandroid'
+include ':app'
